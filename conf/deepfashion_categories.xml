@@ -1,0 +1,56 @@
+<View>
+  <Image name="image" value="$image" zoom="true" zoomControl="true"/>
+  <Choices name="category" toName="image" showInLine="true">
+    <Choice value="Anorak"/>
+    <Choice value="Blazer"/>
+    <Choice value="Blouse"/>
+    <Choice value="Bomber"/>
+    <Choice value="Button-Down"/>
+    <Choice value="Cardigan"/>
+    <Choice value="Flannel"/>
+    <Choice value="Halter"/>
+    <Choice value="Henley"/>
+    <Choice value="Hoodie"/>
+    <Choice value="Jacket"/>
+    <Choice value="Jersey"/>
+    <Choice value="Parka"/>
+    <Choice value="Peacoat"/>
+    <Choice value="Poncho"/>
+    <Choice value="Sweater"/>
+    <Choice value="Tank"/>
+    <Choice value="Tee"/>
+    <Choice value="Top"/>
+    <Choice value="Turtleneck"/>
+    <Choice value="Capris"/>
+    <Choice value="Chinos"/>
+    <Choice value="Culottes"/>
+    <Choice value="Cutoffs"/>
+    <Choice value="Gauchos"/>
+    <Choice value="Jeans"/>
+    <Choice value="Jeggings"/>
+    <Choice value="Jodhpurs"/>
+    <Choice value="Joggers"/>
+    <Choice value="Leggings"/>
+    <Choice value="Sarong"/>
+    <Choice value="Shorts"/>
+    <Choice value="Skirt"/>
+    <Choice value="Sweatpants"/>
+    <Choice value="Sweatshorts"/>
+    <Choice value="Trunks"/>
+    <Choice value="Caftan"/>
+    <Choice value="Coat"/>
+    <Choice value="Coverup"/>
+    <Choice value="Dress"/>
+    <Choice value="Jumpsuit"/>
+    <Choice value="Kaftan"/>
+    <Choice value="Kimono"/>
+    <Choice value="Onesie"/>
+    <Choice value="Robe"/>
+    <Choice value="Romper"/>
+  </Choices>
+  <Choices name="category-type" toName="image" showInLine="true">
+    <Choice value="Upper-body"/>
+    <Choice value="Lower-body"/>
+    <Choice value="Full-body"/>
+  </Choices>
+</View>

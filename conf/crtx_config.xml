@@ -1,0 +1,28 @@
+<View>
+  <Image name="image" value="$image" zoom="true" zoomControl="true"/>
+  
+  <Choices name="category" toName="image" showInLine="true">
+    <Choice value="Ramper"/>
+    <Choice value="Hoodie"/>
+  </Choices>
+  <Choices name="clothing-type" toName="image" showInLine="true">
+    <Choice value="Upper-body"/>
+    <Choice value="Lower-body"/>
+    <Choice value="Full-body"/>
+  </Choices>
+  <RectangleLabels name="bbox" toName="image">
+    <Label value="Ramper" background="#00cccc"/>
+    <Label value="Hoodie" background="#9999ff"/>
+  </RectangleLabels>
+  <Choices name="attributes" toName="image" showInLine="true">
+    <Choice value="Animal"/>
+    <Choice value="Glitter"/>
+    <Choice value="Unknown"/>
+  </Choices>
+  <KeyPointLabels name="landmarks" toName="image"
+                  strokewidth="2" opacity="1" >
+      <Label value="s1" background="#ff9900"/>
+      <Label value="s2" background="#ff0000"/>
+  </KeyPointLabels>
+  
+</View>
