@@ -1,0 +1,274 @@
+[
+  {
+    "id": 5,
+    "annotations": [
+      {
+        "id": 5,
+        "completed_by": {
+          "id": 1,
+          "email": "admin@crtx.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Poncho"
+              ]
+            },
+            "id": "M_q5O56FTW",
+            "from_name": "category",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Full-body"
+              ]
+            },
+            "id": "VHSyzztuhN",
+            "from_name": "category-type",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2021-09-03T10:24:40.589614Z",
+        "updated_at": "2021-09-03T10:24:40.589659Z",
+        "lead_time": 4.894,
+        "prediction": { },
+        "result_count": 0,
+        "task": 5
+      }
+    ],
+    "predictions": [ ],
+    "data": {
+      "image": "\/data\/local-files\/?d=deepfashion\/Sheer_Pleated-Front_Blouse\/img_00000002.jpg"
+    },
+    "meta": { },
+    "created_at": "2021-09-03T10:10:52.689074Z",
+    "updated_at": "2021-09-03T10:10:52.689112Z",
+    "project": 1
+  },
+  {
+    "id": 4,
+    "annotations": [
+      {
+        "id": 4,
+        "completed_by": {
+          "id": 1,
+          "email": "admin@crtx.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Coverup"
+              ]
+            },
+            "id": "jafyma1zse",
+            "from_name": "category",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Full-body"
+              ]
+            },
+            "id": "0OvwkVdvP8",
+            "from_name": "category-type",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2021-09-03T10:24:33.855694Z",
+        "updated_at": "2021-09-03T10:24:33.855737Z",
+        "lead_time": 6.504,
+        "prediction": { },
+        "result_count": 0,
+        "task": 4
+      }
+    ],
+    "predictions": [ ],
+    "data": {
+      "image": "\/data\/local-files\/?d=deepfashion\/Sheer_Pleated-Front_Blouse\/img_00000005.jpg"
+    },
+    "meta": { },
+    "created_at": "2021-09-03T10:10:52.676623Z",
+    "updated_at": "2021-09-03T10:10:52.676673Z",
+    "project": 1
+  },
+  {
+    "id": 3,
+    "annotations": [
+      {
+        "id": 3,
+        "completed_by": {
+          "id": 1,
+          "email": "admin@crtx.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Chinos"
+              ]
+            },
+            "id": "Zo7d37GygJ",
+            "from_name": "category",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Upper-body"
+              ]
+            },
+            "id": "rCAJrE6nZ4",
+            "from_name": "category-type",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2021-09-03T10:24:25.470139Z",
+        "updated_at": "2021-09-03T10:24:25.470183Z",
+        "lead_time": 5.641,
+        "prediction": { },
+        "result_count": 0,
+        "task": 3
+      }
+    ],
+    "predictions": [ ],
+    "data": {
+      "image": "\/data\/local-files\/?d=deepfashion\/Sheer_Pleated-Front_Blouse\/img_00000004.jpg"
+    },
+    "meta": { },
+    "created_at": "2021-09-03T10:10:52.664492Z",
+    "updated_at": "2021-09-03T10:10:52.664529Z",
+    "project": 1
+  },
+  {
+    "id": 2,
+    "annotations": [
+      {
+        "id": 2,
+        "completed_by": {
+          "id": 1,
+          "email": "admin@crtx.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Halter"
+              ]
+            },
+            "id": "t4f-DxZC7T",
+            "from_name": "category",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Lower-body"
+              ]
+            },
+            "id": "dwG7VQt3Ay",
+            "from_name": "category-type",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2021-09-03T10:24:16.641675Z",
+        "updated_at": "2021-09-03T10:24:16.641719Z",
+        "lead_time": 3.826,
+        "prediction": { },
+        "result_count": 0,
+        "task": 2
+      }
+    ],
+    "predictions": [ ],
+    "data": {
+      "image": "\/data\/local-files\/?d=deepfashion\/Sheer_Pleated-Front_Blouse\/img_00000001.jpg"
+    },
+    "meta": { },
+    "created_at": "2021-09-03T10:10:52.652159Z",
+    "updated_at": "2021-09-03T10:10:52.652199Z",
+    "project": 1
+  },
+  {
+    "id": 1,
+    "annotations": [
+      {
+        "id": 1,
+        "completed_by": {
+          "id": 1,
+          "email": "admin@crtx.com",
+          "first_name": "",
+          "last_name": ""
+        },
+        "result": [
+          {
+            "value": {
+              "choices": [
+                "Anorak"
+              ]
+            },
+            "id": "JTTejDjfJd",
+            "from_name": "category",
+            "to_name": "image",
+            "type": "choices"
+          },
+          {
+            "value": {
+              "choices": [
+                "Full-body"
+              ]
+            },
+            "id": "VJmKy2W8A2",
+            "from_name": "category-type",
+            "to_name": "image",
+            "type": "choices"
+          }
+        ],
+        "was_cancelled": false,
+        "ground_truth": false,
+        "created_at": "2021-09-03T10:24:10.462233Z",
+        "updated_at": "2021-09-03T10:24:10.462278Z",
+        "lead_time": 7.61,
+        "prediction": { },
+        "result_count": 0,
+        "task": 1
+      }
+    ],
+    "predictions": [ ],
+    "data": {
+      "image": "\/data\/local-files\/?d=deepfashion\/Sheer_Pleated-Front_Blouse\/img_00000003.jpg"
+    },
+    "meta": { },
+    "created_at": "2021-09-03T10:10:52.638317Z",
+    "updated_at": "2021-09-03T10:10:52.638360Z",
+    "project": 1
+  }
+]
+
+

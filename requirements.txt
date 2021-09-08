@@ -1,0 +1,6 @@
+urllib3
+requests
+uwsgi==2.0.19.1
+supervisor==4.2.2
+label-studio==1.0.1
+git+https://github.com/heartexlabs/label-studio-ml-backend

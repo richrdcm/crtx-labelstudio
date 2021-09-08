@@ -1,0 +1,37 @@
+[
+  {
+    "id": "1",
+    "data": {
+      "image": "/data/local-files/?d=deepfashion/Sheer_Pleated-Front_Blouse/img_00000001.jpg"
+    },
+    "predictions": [
+      {
+        "result": [
+          {
+            "id": "result1",
+            "type": "choices",
+            "from_name": "category",
+            "to_name": "image",
+            "value": {
+              "choices": [
+                "Cardigan"
+              ]
+            }
+          },
+          {
+            "id": "result2",
+            "type": "choices",
+            "from_name": "category-type",
+            "to_name": "image",
+            "value": {
+              "choices": [
+                "Full-body"
+              ]
+            }
+          }
+        ],
+        "score": 1.0
+      }
+    ]
+  }
+]
